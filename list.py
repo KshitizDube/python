@@ -1,0 +1,22 @@
+list_of_items =["cartofi","soap","milk","green onion"]
+print(list_of_items + ["gigin"])
+print(type(True))
+list_of_items2 = ["rice","phoa","dal"]
+print(list_of_items + list_of_items2 + ["kaju"])
+list_of_items2.append("kaju")
+print(list_of_items2)
+list_of_items2.remove("kaju")
+print(list_of_items2)
+print(list_of_items[0] + "," + list_of_items2[0])
+print(len(list_of_items + list_of_items2))
+list_of_items2.remove("rice")
+print(list_of_items2)
+list_of_items2.insert(0,"chili")
+print(list_of_items2)
+list_of_items2[0]="chili"
+print(list_of_items2)
+list_of_items2.sort()
+print(list_of_items2)
+print(list_of_items[1] + "," + list_of_items[3])
+list_of_items.insert(2,"capsicum")
+print(list_of_items)

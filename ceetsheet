@@ -1,0 +1,4 @@
+show content of a directory = dir 
+exit a folder = cd ..
+change directory = cd
+exit terminal = exit

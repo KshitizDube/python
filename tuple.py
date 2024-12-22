@@ -1,0 +1,5 @@
+tuple = (10.3,True,"hi",20,10,123,12,10,10,23,10)
+# print(type(tuple))
+# print(tuple*3)
+# print(tuple.count(10))
+print(tuple.index(10,10,11))

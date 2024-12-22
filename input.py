@@ -1,0 +1,10 @@
+# student_name = input(" enter your name : ")
+# teacher_name = input(" enter your teacher name : ")
+# print(student_name + "," + teacher_name)
+fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+# print(fruits[2:5])
+# print(fruits[2:])
+# print(fruits[:4]) 
+# print(fruits[4:])
+# print(fruits[-3:])
+print(len(fruits))
